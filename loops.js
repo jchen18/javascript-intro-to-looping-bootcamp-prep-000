@@ -14,7 +14,7 @@ function whileLoop(number){
 
 function doWhileLoop(array){
   do {
-    var maybeTrue() = true; 
+    var maybeTrue() = false; 
 } while (array.length > 0 && maybeTrue());
   array.shift()
   return array
